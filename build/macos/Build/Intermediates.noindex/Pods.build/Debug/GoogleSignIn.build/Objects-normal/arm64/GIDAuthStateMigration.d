@@ -1,0 +1,56 @@
+dependencies: \
+  /Users/anujindal/CongApp/clubs/club/Atempt\ 1/random/flutter_application_1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/GoogleSignIn.build/module.modulemap \
+  /Users/anujindal/CongApp/clubs/club/Atempt\ 1/random/flutter_application_1/macos/Pods/GoogleSignIn/GoogleSignIn/Sources/GIDAuthStateMigration.m \
+  /Users/anujindal/CongApp/clubs/club/Atempt\ 1/random/flutter_application_1/macos/Pods/GoogleSignIn/GoogleSignIn/Sources/GIDAuthStateMigration.h \
+  /Users/anujindal/CongApp/clubs/club/Atempt\ 1/random/flutter_application_1/macos/Pods/GoogleSignIn/GoogleSignIn/Sources/GIDSignInCallbackSchemes.h \
+  /Users/anujindal/CongApp/clubs/club/Atempt\ 1/random/flutter_application_1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/GTMAppAuth.build/module.modulemap \
+  /Users/anujindal/CongApp/clubs/club/Atempt\ 1/random/flutter_application_1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/GTMSessionFetcher.build/module.modulemap \
+  /Users/anujindal/CongApp/clubs/club/Atempt\ 1/random/flutter_application_1/macos/Pods/Target\ Support\ Files/GTMSessionFetcher/GTMSessionFetcher-umbrella.h \
+  /Users/anujindal/CongApp/clubs/club/Atempt\ 1/random/flutter_application_1/macos/Pods/GTMSessionFetcher/Sources/Core/Public/GTMSessionFetcher/GTMSessionFetcher.h \
+  /Users/anujindal/CongApp/clubs/club/Atempt\ 1/random/flutter_application_1/macos/Pods/GTMSessionFetcher/Sources/Core/Public/GTMSessionFetcher/GTMSessionFetcherLogging.h \
+  /Users/anujindal/CongApp/clubs/club/Atempt\ 1/random/flutter_application_1/macos/Pods/GTMSessionFetcher/Sources/Core/Public/GTMSessionFetcher/GTMSessionFetcherService.h \
+  /Users/anujindal/CongApp/clubs/club/Atempt\ 1/random/flutter_application_1/macos/Pods/GTMSessionFetcher/Sources/Core/Public/GTMSessionFetcher/GTMSessionUploadFetcher.h \
+  /Users/anujindal/CongApp/clubs/club/Atempt\ 1/random/flutter_application_1/macos/Pods/GTMSessionFetcher/Sources/Full/Public/GTMSessionFetcher/GTMGatherInputStream.h \
+  /Users/anujindal/CongApp/clubs/club/Atempt\ 1/random/flutter_application_1/macos/Pods/GTMSessionFetcher/Sources/Full/Public/GTMSessionFetcher/GTMMIMEDocument.h \
+  /Users/anujindal/CongApp/clubs/club/Atempt\ 1/random/flutter_application_1/macos/Pods/GTMSessionFetcher/Sources/Full/Public/GTMSessionFetcher/GTMReadMonitorInputStream.h \
+  /Users/anujindal/CongApp/clubs/club/Atempt\ 1/random/flutter_application_1/macos/Pods/Target\ Support\ Files/GTMAppAuth/GTMAppAuth-umbrella.h \
+  /Users/anujindal/CongApp/clubs/club/Atempt\ 1/random/flutter_application_1/build/macos/Build/Products/Debug/GTMAppAuth/GTMAppAuth.framework/Headers/GTMAppAuth-Swift.h \
+  /Users/anujindal/CongApp/clubs/club/Atempt\ 1/random/flutter_application_1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/AppAuth.build/module.modulemap \
+  /Users/anujindal/CongApp/clubs/club/Atempt\ 1/random/flutter_application_1/macos/Pods/Target\ Support\ Files/AppAuth/AppAuth-umbrella.h \
+  /Users/anujindal/CongApp/clubs/club/Atempt\ 1/random/flutter_application_1/macos/Pods/AppAuth/Sources/AppAuthCore.h \
+  /Users/anujindal/CongApp/clubs/club/Atempt\ 1/random/flutter_application_1/macos/Pods/AppAuth/Sources/AppAuthCore/OIDAuthState.h \
+  /Users/anujindal/CongApp/clubs/club/Atempt\ 1/random/flutter_application_1/macos/Pods/AppAuth/Sources/AppAuthCore/OIDAuthStateChangeDelegate.h \
+  /Users/anujindal/CongApp/clubs/club/Atempt\ 1/random/flutter_application_1/macos/Pods/AppAuth/Sources/AppAuthCore/OIDAuthStateErrorDelegate.h \
+  /Users/anujindal/CongApp/clubs/club/Atempt\ 1/random/flutter_application_1/macos/Pods/AppAuth/Sources/AppAuthCore/OIDAuthorizationRequest.h \
+  /Users/anujindal/CongApp/clubs/club/Atempt\ 1/random/flutter_application_1/macos/Pods/AppAuth/Sources/AppAuthCore/OIDExternalUserAgentRequest.h \
+  /Users/anujindal/CongApp/clubs/club/Atempt\ 1/random/flutter_application_1/macos/Pods/AppAuth/Sources/AppAuthCore/OIDResponseTypes.h \
+  /Users/anujindal/CongApp/clubs/club/Atempt\ 1/random/flutter_application_1/macos/Pods/AppAuth/Sources/AppAuthCore/OIDScopes.h \
+  /Users/anujindal/CongApp/clubs/club/Atempt\ 1/random/flutter_application_1/macos/Pods/AppAuth/Sources/AppAuthCore/OIDAuthorizationResponse.h \
+  /Users/anujindal/CongApp/clubs/club/Atempt\ 1/random/flutter_application_1/macos/Pods/AppAuth/Sources/AppAuthCore/OIDAuthorizationService.h \
+  /Users/anujindal/CongApp/clubs/club/Atempt\ 1/random/flutter_application_1/macos/Pods/AppAuth/Sources/AppAuthCore/OIDError.h \
+  /Users/anujindal/CongApp/clubs/club/Atempt\ 1/random/flutter_application_1/macos/Pods/AppAuth/Sources/AppAuthCore/OIDErrorUtilities.h \
+  /Users/anujindal/CongApp/clubs/club/Atempt\ 1/random/flutter_application_1/macos/Pods/AppAuth/Sources/AppAuthCore/OIDExternalUserAgent.h \
+  /Users/anujindal/CongApp/clubs/club/Atempt\ 1/random/flutter_application_1/macos/Pods/AppAuth/Sources/AppAuthCore/OIDExternalUserAgentSession.h \
+  /Users/anujindal/CongApp/clubs/club/Atempt\ 1/random/flutter_application_1/macos/Pods/AppAuth/Sources/AppAuthCore/OIDGrantTypes.h \
+  /Users/anujindal/CongApp/clubs/club/Atempt\ 1/random/flutter_application_1/macos/Pods/AppAuth/Sources/AppAuthCore/OIDIDToken.h \
+  /Users/anujindal/CongApp/clubs/club/Atempt\ 1/random/flutter_application_1/macos/Pods/AppAuth/Sources/AppAuthCore/OIDRegistrationRequest.h \
+  /Users/anujindal/CongApp/clubs/club/Atempt\ 1/random/flutter_application_1/macos/Pods/AppAuth/Sources/AppAuthCore/OIDRegistrationResponse.h \
+  /Users/anujindal/CongApp/clubs/club/Atempt\ 1/random/flutter_application_1/macos/Pods/AppAuth/Sources/AppAuthCore/OIDScopeUtilities.h \
+  /Users/anujindal/CongApp/clubs/club/Atempt\ 1/random/flutter_application_1/macos/Pods/AppAuth/Sources/AppAuthCore/OIDServiceConfiguration.h \
+  /Users/anujindal/CongApp/clubs/club/Atempt\ 1/random/flutter_application_1/macos/Pods/AppAuth/Sources/AppAuthCore/OIDServiceDiscovery.h \
+  /Users/anujindal/CongApp/clubs/club/Atempt\ 1/random/flutter_application_1/macos/Pods/AppAuth/Sources/AppAuthCore/OIDTokenRequest.h \
+  /Users/anujindal/CongApp/clubs/club/Atempt\ 1/random/flutter_application_1/macos/Pods/AppAuth/Sources/AppAuthCore/OIDTokenResponse.h \
+  /Users/anujindal/CongApp/clubs/club/Atempt\ 1/random/flutter_application_1/macos/Pods/AppAuth/Sources/AppAuthCore/OIDTokenUtilities.h \
+  /Users/anujindal/CongApp/clubs/club/Atempt\ 1/random/flutter_application_1/macos/Pods/AppAuth/Sources/AppAuthCore/OIDURLSessionProvider.h \
+  /Users/anujindal/CongApp/clubs/club/Atempt\ 1/random/flutter_application_1/macos/Pods/AppAuth/Sources/AppAuthCore/OIDEndSessionRequest.h \
+  /Users/anujindal/CongApp/clubs/club/Atempt\ 1/random/flutter_application_1/macos/Pods/AppAuth/Sources/AppAuthCore/OIDEndSessionResponse.h \
+  /Users/anujindal/CongApp/clubs/club/Atempt\ 1/random/flutter_application_1/macos/Pods/AppAuth/Sources/AppAuthCore/OIDClientMetadataParameters.h \
+  /Users/anujindal/CongApp/clubs/club/Atempt\ 1/random/flutter_application_1/macos/Pods/AppAuth/Sources/AppAuthCore/OIDDefines.h \
+  /Users/anujindal/CongApp/clubs/club/Atempt\ 1/random/flutter_application_1/macos/Pods/AppAuth/Sources/AppAuthCore/OIDFieldMapping.h \
+  /Users/anujindal/CongApp/clubs/club/Atempt\ 1/random/flutter_application_1/macos/Pods/AppAuth/Sources/AppAuthCore/OIDURLQueryComponent.h \
+  /Users/anujindal/CongApp/clubs/club/Atempt\ 1/random/flutter_application_1/macos/Pods/AppAuth/Sources/AppAuth.h \
+  /Users/anujindal/CongApp/clubs/club/Atempt\ 1/random/flutter_application_1/macos/Pods/AppAuth/Sources/AppAuth/macOS/OIDAuthState+Mac.h \
+  /Users/anujindal/CongApp/clubs/club/Atempt\ 1/random/flutter_application_1/macos/Pods/AppAuth/Sources/AppAuth/macOS/OIDAuthorizationService+Mac.h \
+  /Users/anujindal/CongApp/clubs/club/Atempt\ 1/random/flutter_application_1/macos/Pods/AppAuth/Sources/AppAuth/macOS/OIDExternalUserAgentMac.h \
+  /Users/anujindal/CongApp/clubs/club/Atempt\ 1/random/flutter_application_1/macos/Pods/AppAuth/Sources/AppAuth/macOS/OIDRedirectHTTPHandler.h \
+  /Users/anujindal/CongApp/clubs/club/Atempt\ 1/random/flutter_application_1/macos/Pods/AppAuth/Sources/AppAuth/macOS/LoopbackHTTPServer/OIDLoopbackHTTPServer.h

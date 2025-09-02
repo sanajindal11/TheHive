@@ -1,0 +1,18 @@
+"/Users/anujindal/CongApp/clubs/club/Atempt 1/random/flutter_application_1/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Storage.swift":
+  diagnostics: "/Users/anujindal/CongApp/clubs/club/Atempt 1/random/flutter_application_1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/Storage.dia"
+  object: "/Users/anujindal/CongApp/clubs/club/Atempt 1/random/flutter_application_1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/Storage.o"
+  dependencies: "/Users/anujindal/CongApp/clubs/club/Atempt 1/random/flutter_application_1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/Storage.d"
+  swift-dependencies: "/Users/anujindal/CongApp/clubs/club/Atempt 1/random/flutter_application_1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/Storage.swiftdeps"
+  const-values: "/Users/anujindal/CongApp/clubs/club/Atempt 1/random/flutter_application_1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/Storage.swiftconstvalues"
+"/Users/anujindal/CongApp/clubs/club/Atempt 1/random/flutter_application_1/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/AsyncAwait.swift":
+  object: "/Users/anujindal/CongApp/clubs/club/Atempt 1/random/flutter_application_1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/AsyncAwait.o"
+  swift-dependencies: "/Users/anujindal/CongApp/clubs/club/Atempt 1/random/flutter_application_1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/AsyncAwait.swiftdeps"
+  diagnostics: "/Users/anujindal/CongApp/clubs/club/Atempt 1/random/flutter_application_1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/AsyncAwait.dia"
+  const-values: "/Users/anujindal/CongApp/clubs/club/Atempt 1/random/flutter_application_1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/AsyncAwait.swiftconstvalues"
+  dependencies: "/Users/anujindal/CongApp/clubs/club/Atempt 1/random/flutter_application_1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/AsyncAwait.d"
+"/Users/anujindal/CongApp/clubs/club/Atempt 1/random/flutter_application_1/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Result.swift":
+  const-values: "/Users/anujindal/CongApp/clubs/club/Atempt 1/random/flutter_application_1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/Result.swiftconstvalues"
+  diagnostics: "/Users/anujindal/CongApp/clubs/club/Atempt 1/random/flutter_application_1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/Result.dia"
+  dependencies: "/Users/anujindal/CongApp/clubs/club/Atempt 1/random/flutter_application_1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/Result.d"
+  object: "/Users/anujindal/CongApp/clubs/club/Atempt 1/random/flutter_application_1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/Result.o"
+  swift-dependencies: "/Users/anujindal/CongApp/clubs/club/Atempt 1/random/flutter_application_1/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/Result.swiftdeps"

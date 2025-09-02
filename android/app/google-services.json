@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "167294962056",
+    "project_id": "congressional-app-challe-5046a",
+    "storage_bucket": "congressional-app-challe-5046a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167294962056:android:6f04fcd320c5ab70c3923d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167294962056-88t0286ufuo4f005atbl6muhmfu9qgtu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzJpwjmJnzvjTeQQCMyD_PjuVWB_EgyWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167294962056-88t0286ufuo4f005atbl6muhmfu9qgtu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "167294962056-ig21dgbnpcnnp7ag3pqtatmomrifcid8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterApplication1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
