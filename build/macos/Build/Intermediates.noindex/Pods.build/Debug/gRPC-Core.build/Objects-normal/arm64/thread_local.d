@@ -1,5 +1,0 @@
-dependencies: \
-  /Users/anujindal/CongApp/clubs/club/Atempt\ 1/random/flutter_application_1/macos/Pods/gRPC-Core/src/core/lib/event_engine/thread_local.cc \
-  /Users/anujindal/CongApp/clubs/club/Atempt\ 1/random/flutter_application_1/macos/Pods/Target\ Support\ Files/gRPC-Core/gRPC-Core-prefix.pch \
-  /Users/anujindal/CongApp/clubs/club/Atempt\ 1/random/flutter_application_1/macos/Pods/gRPC-Core/src/core/lib/event_engine/thread_local.h \
-  /Users/anujindal/CongApp/clubs/club/Atempt\ 1/random/flutter_application_1/macos/Pods/gRPC-Core/include/grpc/support/port_platform.h
